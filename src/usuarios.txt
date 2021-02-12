@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Gabriela",
+    "email": "menacho.gabriela@email.com",
+    "senha": "esqueciasenhadenovo",
+  },
+  {
+    "nome": "Edgar",
+    "email": "edgark@gmail.com",
+    "senha": "amnesia",
+  },
+  {
+    "nome": "Esmeralda",
+    "email": "esmeraldinha@gmail.com",
+    "senha": "esme123456",
+  }
+]
